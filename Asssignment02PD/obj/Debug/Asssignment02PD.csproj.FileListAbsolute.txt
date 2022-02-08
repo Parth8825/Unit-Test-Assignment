@@ -5,3 +5,12 @@ C:\PROG2070_Software_Quality_Assurance\Asssignment02PD\Asssignment02PD\obj\Debug
 C:\PROG2070_Software_Quality_Assurance\Asssignment02PD\Asssignment02PD\obj\Debug\Asssignment02PD.csproj.CoreCompileInputs.cache
 C:\PROG2070_Software_Quality_Assurance\Asssignment02PD\Asssignment02PD\obj\Debug\Asssignment02PD.exe
 C:\PROG2070_Software_Quality_Assurance\Asssignment02PD\Asssignment02PD\obj\Debug\Asssignment02PD.pdb
+C:\PROG2070_Software_Quality_Assurance\Asssignment02PD\Asssignment02PD\bin\Debug\NUnit3.TestAdapter.dll
+C:\PROG2070_Software_Quality_Assurance\Asssignment02PD\Asssignment02PD\bin\Debug\NUnit3.TestAdapter.pdb
+C:\PROG2070_Software_Quality_Assurance\Asssignment02PD\Asssignment02PD\bin\Debug\nunit.engine.dll
+C:\PROG2070_Software_Quality_Assurance\Asssignment02PD\Asssignment02PD\bin\Debug\nunit.engine.api.dll
+C:\PROG2070_Software_Quality_Assurance\Asssignment02PD\Asssignment02PD\bin\Debug\nunit.engine.core.dll
+C:\PROG2070_Software_Quality_Assurance\Asssignment02PD\Asssignment02PD\bin\Debug\testcentric.engine.metadata.dll
+C:\PROG2070_Software_Quality_Assurance\Asssignment02PD\Asssignment02PD\bin\Debug\nunit.framework.dll
+C:\PROG2070_Software_Quality_Assurance\Asssignment02PD\Asssignment02PD\bin\Debug\nunit.framework.xml
+C:\PROG2070_Software_Quality_Assurance\Asssignment02PD\Asssignment02PD\obj\Debug\Asssignment02PD.csproj.CopyComplete
