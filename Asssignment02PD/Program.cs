@@ -58,12 +58,12 @@ namespace Asssignment02PD
                 "6. Get Rectangle Area\n" +
                 "7. Exit\n" +
                 "Please SELECT the NUMBER from the above MENU: ");
-                Console.WriteLine();
                 while (!int.TryParse(Console.ReadLine(), out selectMenu))
                 {
                     Console.WriteLine("Please Enter a valid integer value!");
                     Console.Write("Please SELECT the NUMBER from the above MENU: ");
                 }
+                Console.WriteLine();
                 switch (selectMenu)
                 {
                     case 1:

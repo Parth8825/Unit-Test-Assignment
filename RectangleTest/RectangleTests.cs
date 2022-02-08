@@ -19,7 +19,7 @@ namespace RectangleTest
             int width = 2;
             Rectangle rect = new Rectangle(length, width);
 
-            int expected = 1;
+            int expected = 2;
             //Act
             int actual = rect.GetLength();
 
