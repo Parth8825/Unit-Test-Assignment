@@ -1,0 +1,7 @@
+C:\PROG2070_Software_Quality_Assurance\Asssignment02PD\Asssignment02PD\bin\Debug\Asssignment02PD.exe.config
+C:\PROG2070_Software_Quality_Assurance\Asssignment02PD\Asssignment02PD\bin\Debug\Asssignment02PD.exe
+C:\PROG2070_Software_Quality_Assurance\Asssignment02PD\Asssignment02PD\bin\Debug\Asssignment02PD.pdb
+C:\PROG2070_Software_Quality_Assurance\Asssignment02PD\Asssignment02PD\obj\Debug\Asssignment02PD.csproj.AssemblyReference.cache
+C:\PROG2070_Software_Quality_Assurance\Asssignment02PD\Asssignment02PD\obj\Debug\Asssignment02PD.csproj.CoreCompileInputs.cache
+C:\PROG2070_Software_Quality_Assurance\Asssignment02PD\Asssignment02PD\obj\Debug\Asssignment02PD.exe
+C:\PROG2070_Software_Quality_Assurance\Asssignment02PD\Asssignment02PD\obj\Debug\Asssignment02PD.pdb
